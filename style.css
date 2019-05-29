@@ -1,0 +1,54 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  position: relative;
+  text-align: center;
+  background: #2F68AA;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 220px 0 40px;
+  font-size: 24px;
+  border: 1px solid #fff;
+  cursor: pointer;
+  background: #1E93F5;
+  color: #fff;
+  border-radius: 5px;
+  outline: none;
+}
+button:focus {
+  box-shadow: 0 0 10px -3px rgba(255, 255, 255, .3);
+}
+a:focus {
+  text-shadow: 0 0 10px rgba(255, 255, 255, .3);
+}
+a {
+  color: #fff;
+  outline: 0;
+}
+
+.result {
+  min-height: 6em;
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.result a {
+  font-size: 24px;
+}
+
+.disclaimer {
+  position: fixed;
+  left: 5%;
+  bottom: 10px;
+  width: 90%;
+}
