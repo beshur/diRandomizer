@@ -488,11 +488,6 @@ function getChannels() {
     "description": "The darker form of PsyTrance, which is a sound all its own – direct from Goa to your headphones."
   },
   {
-    "key": "electronics",
-    "name": "XElectronics",
-    "description": "30+ years of open-genre electronic music. From spatial ambient sounds to experimental techno and more.\r\n"
-  },
-  {
     "key": "dub",
     "name": "Dub",
     "description": "An emphasis on the bass and drums, delayed effects, sampled vocals and smokey Reggae inspired vibes."
