@@ -8,6 +8,8 @@ function start() {
     console.log('button clicked');
     printChannel(randomize())
   })
+  
+  printChannel(randomize())
 }
 
 function randomize() {
